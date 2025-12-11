@@ -1,0 +1,9 @@
+basic commands in git:
+config
+branch:
+merge
+delete
+status
+list
+unset
+clone
